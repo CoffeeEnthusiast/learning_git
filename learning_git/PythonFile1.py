@@ -3,7 +3,7 @@ import time
 # time delay of 5 seconds
 time.sleep(5)
 # Creating a list
-Languages = ["Slovenian", "Italian", "Spanish"]
+Languages = ["slovenian", "italian", "spanish"]
 # Print statement
 print(Languages)
 
